@@ -33,7 +33,7 @@ import {
   UnfoldMoreIcon,
   ArrowUpwardIcon,
   ArrowDownwardIcon,
-} from "./icons";
+} from "./Icons";
 
 
 
