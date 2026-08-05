@@ -3,7 +3,7 @@ import { Routes, Route, Navigate } from 'react-router-dom'
  import Dashboard from "../dashboard/Dashboard"
 import SignUp from '../sign-up/SignUp'
 import SignIn from '../sign-in/SignIn'
-import InvoiceForm from '../Invoice/Invoice'
+import InvoiceForm from '../invoice/Invoice'
 import NewItemDialog from '../Item/NewItemDialog'
 import ItemsTable from '../Item/ItemsTable'
 
