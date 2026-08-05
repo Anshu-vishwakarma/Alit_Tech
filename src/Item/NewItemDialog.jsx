@@ -17,7 +17,7 @@ import CircularProgress from '@mui/material/CircularProgress';
 import Snackbar from '@mui/material/Snackbar';
 import Alert from '@mui/material/Alert';
 import axios from 'axios';
-import { CloseIcon, ImageOutlinedIcon } from "./icons";
+import { CloseIcon, ImageOutlinedIcon } from "./Icons";
 
 const DESCRIPTION_MAX = 500;
 const API_BASE = "https://alitinvoiceappapi.azurewebsites.net/api/item";
